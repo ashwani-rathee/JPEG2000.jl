@@ -1,5 +1,6 @@
 module JPEG2000
 
-greet() = print("Hello World!")
+include("../lib/LibOpenJpeg.jl")
+using .LibOpenJpeg
 
 end # module
