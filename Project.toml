@@ -1,0 +1,4 @@
+name = "JPEG2000"
+uuid = "e03cc1a9-7b5d-46a2-bc99-ec25cb5f0af6"
+authors = ["Ashwani Rathee <ab669522@gmail.com>"]
+version = "0.1.0"
