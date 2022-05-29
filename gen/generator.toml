@@ -1,0 +1,6 @@
+[general]
+jll_pkg_name = "OpenJpeg_jll"
+library_name = "libopenjpeg"
+library_names = {"openjpeg.h" = "libopenjpeg", "opj_config.h" = "libopjconfig", "opj_stdint.h" = "libopjstdint"}
+output_file_path = "../lib/LibOpenJpeg.jl"
+module_name = "LibOpenJpeg"
