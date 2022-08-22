@@ -173,6 +173,12 @@ version = "1.5.2+0"
 deps = ["Artifacts", "Libdl"]
 uuid = "8f36deef-c2a5-5394-99ed-8e07531fb29a"
 
+[[deps.libopenjpegextra_jll]]
+deps = ["Artifacts", "JLLWrappers", "Libdl", "OpenJpeg_jll", "Pkg"]
+git-tree-sha1 = "ea051ac031a4bd0e43bac47a8a21b6bf24d27d72"
+uuid = "45948f9d-8d54-5094-b7bd-7e0ca68150a5"
+version = "0.0.1+0"
+
 [[deps.libpng_jll]]
 deps = ["Artifacts", "JLLWrappers", "Libdl", "Pkg", "Zlib_jll"]
 git-tree-sha1 = "94d180a6d2b5e55e447e2d27a29ed04fe79eb30c"
