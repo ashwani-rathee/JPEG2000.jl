@@ -1,0 +1,5 @@
+[general]
+jll_pkg_name = "libopenjpegextra_jll"
+library_name = "libopenjpegextra"
+output_file_path = "../lib/LibOpenJpegExtra.jl"
+module_name = "LibOpenJpegExtra"
